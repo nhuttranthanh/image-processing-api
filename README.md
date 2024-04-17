@@ -34,6 +34,7 @@
 Resize images available in the assets/images
 Endpoint /api/images and requires three query params:
 | Query Param | Value |
+| --- | --- |
 | filename | the filename of one of the images available in the folder|
 | width | it should be a positive integer |
 | height | it should be a positive integer |
