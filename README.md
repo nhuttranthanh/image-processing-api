@@ -40,7 +40,7 @@ Endpoint `/api/images` and requires three query params:
 | height | it should be a positive integer |
 
 Endpoint demo
-[http://localhost:3006/api](http://localhost:3006/api)
+[http://localhost:3000/api](http://localhost:3000/api)
 
 Endpoint resize image
-[http://localhost:3006/api/images?filename=encenadaport&height=200&width=200](http://localhost:3006/api/images?filename=encenadaport&height=200&width=200)
+[http://localhost:3000/api/images?filename=encenadaport&height=200&width=200](http://localhost:3000/api/images?filename=encenadaport&height=200&width=200)
